@@ -2,7 +2,7 @@
 
 ML Engineer / Data Scientist based in Sydney, building models that go beyond the notebook — from data pipelines to production.
 
-- 🎓 Currently pursuing a **Master of Computer Science (Advanced Entry)** at the **University of Sydney**, specialising in Data Science & AI and Cybersecurity (Distinction WAM)
+- 🎓 Currently pursuing a **Master of Computer Science (Advanced Entry)** at the **University of Sydney**, specialising in Data Science & AI and Cybersecurity 
 - 💼 Previously a **Data Scientist at Deloitte India**, building Scala-Spark pipelines and analytics frameworks for enterprise audit data
 - 🔭 Currently working on an **ML Engineering capstone project (CMU Capstone, Sydney)**
 - 🌱 Focused on the full ML lifecycle: feature engineering, model development, and deployment (Docker, AWS, GCP)
@@ -28,6 +28,3 @@ ML Engineer / Data Scientist based in Sydney, building models that go beyond the
 | [Jade / Plant Leaf Disease Detection](https://github.com/DhruvLawaniya/PlantLeafDiseaseDetectionApplication) | VGG-19 based plant disease detection app — 3rd place, Smart India Hackathon |
 | [ExamGenerator](https://github.com/DhruvLawaniya/ExamGenerator) | Turns lecture content into exam-style question papers via a simple JSON pipeline |
 
-## 📊 GitHub Stats
-
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvLawaniya&show_icons=true&theme=default)
