@@ -28,3 +28,4 @@ ML Engineer / Data Scientist based in Sydney, building models that go beyond the
 | [Jade / Plant Leaf Disease Detection](https://github.com/DhruvLawaniya/PlantLeafDiseaseDetectionApplication) | VGG-19 based plant disease detection app — 3rd place, Smart India Hackathon |
 | [ExamGenerator](https://github.com/DhruvLawaniya/ExamGenerator) | Turns lecture content into exam-style question papers via a simple JSON pipeline |
 
+
